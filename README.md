@@ -1,3 +1,3 @@
 Never Forget
 
-![anthony_excited](docs/anthony_excited.gif)
+![anthony_excited](anthony_excited.gif)
